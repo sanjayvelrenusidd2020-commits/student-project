@@ -1,0 +1,18 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Student Portfolio</title>
+</head>
+<body>
+<h1> My Student Portfolio</h1>
+<h2> about me</h2>
+<p> iam bsc computer sience student</p>
+<h2>education</h2>
+<p> bsc computer science</p>
+<h2> skills</h2>
+<p> htmls, css</p>
+<h2>contact</h2>
+<p>email: sanjay@.com<.p>
+</body>
+</html>
